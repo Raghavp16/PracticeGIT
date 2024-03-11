@@ -1,5 +1,0 @@
-hello i am raghava 
-git init - for intilising new folder in our local system
-git add sadvi_1git_1.txt - for adding new file git add file name with data type
-git commit -m "file uplodaded" - to commit the file 
-modified in github in chrom remote repositery 
